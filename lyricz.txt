@@ -1,3 +1,4 @@
+VERS1:
 neostvareni san
 dajem sebi sam
 novi razlog
@@ -9,30 +10,28 @@ trag će biti
 zaboravljen
 
 
-
+BRIDGE1:
 daj mi pravi razlog
 (da budim se za dan)
 jer sebe vidim daleko
 novi dan ne poznajem
 i osećam da bojim se
 
+PREDREFREN1:
 osećaš, prazno je
 nedostaje put kojim vodim se
 zar ne vidiš da kajanje je znak
 lošeg puta ne( i samog ishoda)
 
-
+REFREN1:
 znam i kad će doći vreme
 bačeno na ostvareni san
 osecamo da je iza nas
-i sada nebo iznad 1.postace nas novi kompas
+i sada nebo iznad postace nas novi kompas
 zar kraj je preci od puta
 
-1.govori "sam si kriv sebi"
-zar puteve krojis od loseg cilja)
 
-
-
+VERS2:
 sebi tražim spas
 čujem sam svoj glas
 i uzaludan
@@ -42,3 +41,10 @@ svetlost pravi znak
 tamu razdvaja
 pre samog kraja
 slediću njen trag
+
+REFREN2:
+vidis da je zlato osecaj
+kad razlog se ne spoznaje
+putevi se naziru sad
+ali zato nema nazad ne dozvoli da te vraca
+kroz tragove u mislima
