@@ -25,6 +25,7 @@ sve vise dalja je
 
 main riff half time na bubnju, lead gitara preskace zadnji lick
 
+RANDOM SEKCIJA:
 svetlost trijumfa
 pred nasim ocima
 postace zrak koji doziva
@@ -32,19 +33,22 @@ i zeli tebe
 kajanje je znak da si preboleo neuspeh
 i sada misli sanjaju, nema nazad
 
-PREDREFREN1:
-osećaš, prazno je
-nedostaje put kojim vodim se
-zar ne vidiš da kajanje je znak
-lošeg puta ne( i samog ishoda)
-
-..nema nazad (E fis E D)
 REFREN1:
 znam i kad će doći vreme
 bačeno na ostvareni san
 osecamo da je iza nas
 i sada nebo iznad postace nas novi kompas
 zar kraj je preci od puta
+
+harmonijski solo koji peva krajnju liniju (svice zora)
+al ne sve vreme log
+
+//PREDREFREN1:
+osećaš, prazno je
+nedostaje put kojim vodim se
+zar ne vidiš da kajanje je znak
+lošeg puta ne( i samog ishoda)//
+
 
 
 VERS2:
@@ -56,7 +60,12 @@ dajem odgovor
 svetlost pravi znak
 tamu razdvaja
 pre samog kraja
-slediću njen trag
+slediću njen trag (trag je A)
+
+osecas, prazno je
+izostaje trag koji vodi me
+promena iz korena
+je potrebna sad kad bojis se
 
 REFREN2:
 vidis da je zlato osecaj
